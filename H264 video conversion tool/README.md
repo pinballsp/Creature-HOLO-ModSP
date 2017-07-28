@@ -24,4 +24,5 @@ H.264 stream) copy (and rename if need) the output .h264 file to the USB Pendriv
 Remember you must configure your HOLO ModSP to trigger any new video according with status of playfield 
 switches, lamps, bumpers flashers, etc... Check User Manual for full instructions.
 
-http://i.imgur.com/YQ2eRFv.jpg
+[[http://i.imgur.com/YQ2eRFv.jpg|alt=octocat]]
+
