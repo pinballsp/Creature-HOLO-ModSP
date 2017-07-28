@@ -17,7 +17,7 @@ Where video.mp4 is the name of your video to convert (don't worry ffmpeg support
 formats, so you can send it a .avi, .mov, .mkv, .mp4, m4v, etc.) and video.h264 is the name of the 
 output file (raw h264 format).  
 
-Make sure to keep the .h264 extension on the output file as it's required when using Creature HOLO ModSP
+Make sure to keep the .h264 extension on the output file as it's required when using Creature HOLO ModSP.
 After ffmpeg finishes running (usually the operation is quite fast since it's just extracting the 
 H.264 stream) copy (and rename if need) the output .h264 file to the USB Pendrive of your HOLO ModSP.
 
