@@ -10,7 +10,7 @@ Etcher is a graphical SD card writing tool that works on Mac OS, Linux and Windo
 <ul>
 <li>Download Etcher and install it.</li>
 <li>Connect an SD card reader with the SD card inside.</li>
-<li>Open Etcher and select from your hard drive the Raspberry Pi .img or .zip file you wish to write to the SD card.</li>
+<li>Open Etcher and select from your hard drive the Raspberry Pi .img or .zip file you wish to write to the SD card (Holo ModSP firmware).</li>
 <li>Select the SD card you wish to write your image to.</li>
 <li>Review your selections and click 'Flash!' to begin writing data to the SD card.</li>
 </ul>
