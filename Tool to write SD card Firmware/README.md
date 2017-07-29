@@ -16,6 +16,8 @@ Etcher is a graphical SD card writing tool that works on Mac OS, Linux and Windo
 </ul>
 
  
+  
+  
 ![alt text](http://i.imgur.com/3ZpZu7n.jpg)
 
 
