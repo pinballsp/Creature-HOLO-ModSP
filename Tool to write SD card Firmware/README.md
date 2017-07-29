@@ -7,4 +7,7 @@ May download Etcher for Windows (32 and 64bit), Mac and Linux (32 and 64bit) fro
 For support or questions, contact directly with me (pinballsp@gmail.com)
 
 
+![alt text](http://i.imgur.com/3ZpZu7n.jpg)
+
+
 
