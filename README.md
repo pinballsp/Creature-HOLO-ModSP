@@ -8,15 +8,15 @@ The product consists of a 11.6-inch high resolution screen (1920*1080), an elect
 The installation of HolomodSP is very simple and safe. The firmware is fully compatible with Rom L-4 and Rev5. The main board of the product can install a micro SD card for firmware update tasks, configuration and activation of optional extras.
 
 Holomodsp videos in play on the machine:
-https://www.youtube.com/watch?v=tqswHMnqYg0 
-https://www.youtube.com/watch?v=iDxzxl1YeIk 
-https://www.youtube.com/watch?v=SwVw-m21igc 
-https://www.youtube.com/watch?v=Z2yUT99qCks 
-https://www.youtube.com/watch?v=oxTJrsIyK14 
-https://www.youtube.com/watch?v=_igTGqxjOKw 
-https://www.youtube.com/watch?v=huUt7VCuPbc 
-https://www.youtube.com/watch?v=IuGab3siHr8
-
+https://www.youtube.com/watch?v=tqswHMnqYg0 <br> 
+https://www.youtube.com/watch?v=iDxzxl1YeIk  <br> 
+https://www.youtube.com/watch?v=SwVw-m21igc  <br> 
+https://www.youtube.com/watch?v=Z2yUT99qCks  <br> 
+https://www.youtube.com/watch?v=oxTJrsIyK14  <br> 
+https://www.youtube.com/watch?v=_igTGqxjOKw  <br> 
+https://www.youtube.com/watch?v=huUt7VCuPbc  <br> 
+https://www.youtube.com/watch?v=IuGab3siHr8 <br> 
+ <br> 
 Youtube channel:
 https://www.youtube.com/user/PINBALLSP/videos
 
