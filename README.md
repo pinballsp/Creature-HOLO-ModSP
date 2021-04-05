@@ -7,7 +7,7 @@ The product consists of a 11.6-inch high resolution screen (1920*1080), an elect
 
 The installation of HolomodSP is very simple and safe. The firmware is fully compatible with Rom L-4 and Rev5. The main board of the product can install a micro SD card for firmware update tasks, configuration and activation of optional extras.
 
-Holomodsp videos in play on the machine:
+Holomodsp videos in play on the machine: <br> 
 https://www.youtube.com/watch?v=tqswHMnqYg0 <br> 
 https://www.youtube.com/watch?v=iDxzxl1YeIk  <br> 
 https://www.youtube.com/watch?v=SwVw-m21igc  <br> 
