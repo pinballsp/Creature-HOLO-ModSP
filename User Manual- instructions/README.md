@@ -2,7 +2,7 @@
 Last update: April 22, 2021
 <br><br>
 English language User manual v1.2:<br>
-https://mega.nz/file/YBsUhRYY#EpXkj7p0yZGhbF7abyPjha4j0MGn6vkzTTBck9-JhcU
+https://mega.nz/file/9JtGXCoK#0HHocMmEkEO18_CEWT0rwDvvGIT15c3cKzVcmxsvmsw
 <br><br>
 Manual de Usuario v1.2 en Español:<br>
-https://mega.nz/file/ZA1yxJxI#HDmrji6dXCv_NMkzIOrXgdi4krJ1_7KCE5qUPX_FqqM
+https://mega.nz/file/dU0EBKDY#5zU9LcFkpKY3aCQOETNXbGxw8VD5LLaFC-rJwWyB_QM
