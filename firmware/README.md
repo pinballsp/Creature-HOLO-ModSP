@@ -5,3 +5,9 @@ April 26, 2021. Holomodsp firmware update v1.2.0 (Blue board)<br>
 https://mega.nz/file/cRMjFaYD#hpkmm_37tToF9ZQWG1sFzqidD0wylc3cr8FRFQPDolM
 <br><br>
 April 26, 2021. Holomodsp firmware update v1.2.0 (Raspberry board)<br>
+
+<br><br><br>
+![alt text](https://i.imgur.com/wT0RC9V.jpg) <br><br>
+![alt text](https://i.imgur.com/kl1yYZC.jpg) <br><br>
+
+
