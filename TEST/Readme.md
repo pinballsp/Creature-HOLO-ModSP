@@ -12,7 +12,7 @@ This program plays all videos in a loop, one video every 3 seconds. If you don't
 <b>2.- GREEN board TEST (Raspberry):</b> download this file, request the key to unzip it, update (*) the firmware of the green board and run it.  https://mega.nz/file/kBcjkAya#ZPYxMGIACQHzirOpWb_MK9pEQXp_-PglLU74uEJhoH0
 
 This test plays all videos in a loop, 1 second each video. If you see the videos on the screen then the blue board may have a problem, otherwise the problem is on the green board or on the screen. Contact by email for support.
-<br>
+<br><br>
 
 
 <b>(*) Instructions and tools to update the firmware (English and Spanish)</b>
