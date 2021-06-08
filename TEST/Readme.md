@@ -13,6 +13,8 @@ This program plays all videos in a loop, one video every 3 seconds. If you don't
 
 This test plays all videos in a loop, 1 second each video. If you see the videos on the screen then the blue board may have a problem, otherwise the problem is on the green board or on the screen. Contact by email for support.
 <br>
+
+
 <b>(*) Instructions and tools to update the firmware (English and Spanish)</b>
 https://mega.nz/file/MU0GjKSC#DGsjfam3w05Z6b8nJIVjzj4ADNHSBTes17I6x8XDPE8
 <br><br>
