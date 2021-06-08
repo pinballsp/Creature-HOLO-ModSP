@@ -7,7 +7,7 @@ Updated to 8 June 2021
 <b>1.- BLUE board TEST (Holomodsp):</b> download and update (*) the firmware of the blue board with this test program and run it.  https://mega.nz/file/VM8ggQrZ#aK3_uAprAzul8yVoqM42IypuBnzPnyn5pxhsTpVNDAc
 
 This program plays all videos in a loop, one video every 3 seconds. If you don't see the videos on the screen (black screen), then go to the next test with the green board. If you see the videos on the screen, then the blue board may have a problem, contact by email for support.
-<br><br>
+<br>
 
 <b>2.- GREEN board TEST (Raspberry):</b> download this file, request the key to unzip it, update (*) the firmware of the green board and run it.  https://mega.nz/file/kBcjkAya#ZPYxMGIACQHzirOpWb_MK9pEQXp_-PglLU74uEJhoH0
 
