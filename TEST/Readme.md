@@ -17,4 +17,7 @@ This test plays all videos in a loop, 1 second each video. If you see the videos
 
 <b>(*) Instructions and tools to update the firmware (English and Spanish)</b>
 https://mega.nz/file/MU0GjKSC#DGsjfam3w05Z6b8nJIVjzj4ADNHSBTes17I6x8XDPE8
-<br><br>
+
+<br><br><br>
+![alt text](https://i.imgur.com/wT0RC9V.jpg) <br><br>
+![alt text](https://i.imgur.com/kl1yYZC.jpg) <br><br>
