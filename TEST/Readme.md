@@ -1,5 +1,5 @@
 Updated to 8 June 2021
-<br>
+<br><br>
 <b><u>TEST boards, to detect hardware failures</u></b>
 
 <b>0.- Before checking the boards:</b>  If you have a problem with the product, the first thing you should do is check all the cables and connectors, often a bad contact in a connector or a badly connected cable is the cause of the problem. Reconnect cables and connectors several times and clean the contacts with isopropyl alcohol. Disconnect the BLUE board from the GREEN board, clean the contacts and reconnect them several times. If all of the above did not solve the problem, load and run the following TEST programs on the appropriate board, BLUE and GREEN.
