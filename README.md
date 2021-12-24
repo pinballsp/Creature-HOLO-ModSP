@@ -31,7 +31,7 @@ Telephone: +34 693 344 445 (only Spanish language) <br>  <br>
 [![Holomodsp](https://i.imgur.com/aC8C6MD.jpg)](https://www.youtube.com/watch?v=tqswHMnqYg0 "Holomodsp")
 
 ![alt text](https://i.imgur.com/XFMHqMI.jpg) <br><br>
-![alt text](https://i.imgur.com/unEsKAU.jpg) <br><br>
+![alt text](https://i.imgur.com/faB9ERy.jpg) <br><br>
 ![alt text](https://i.imgur.com/WJGGQKd.jpg) <br><br>
 
 
