@@ -17,7 +17,7 @@ Instrucciones compra y activación paquetes de vídeos extra opcionales.<br>
 https://mega.nz/file/9c8wWLBR#oZse-uAJzpFKqfT1ON_nOQrf217x2wJy-ch_L2riapA
 
 
-![alt text](https://i.imgur.com/MYMEEqP.jpg) <br><br>
+<br>![alt text](https://i.imgur.com/MYMEEqP.jpg) <br><br>
 ![alt text](https://i.imgur.com/AM2TaA3.jpg) <br><br>
 
 
