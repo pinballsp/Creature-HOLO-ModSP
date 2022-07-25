@@ -33,7 +33,6 @@ Click on the image to see a video of the product running on the machine.<br>
 [![Holomodsp](https://i.imgur.com/aC8C6MD.jpg)](https://www.youtube.com/watch?v=tqswHMnqYg0 "Holomodsp")
 
 ![alt text](https://i.imgur.com/XFMHqMI.jpg) <br><br>
-
 Click on the image to see a video of all the videos of the product working.<br>
 
 [![Holomodsp Video List](https://i.imgur.com/sWLLpsa.jpg)](https://youtu.be/SzqxpUesvz4 "Holomodsp Video List")<br><br>
